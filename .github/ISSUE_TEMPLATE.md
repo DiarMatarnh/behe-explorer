@@ -17,7 +17,7 @@
 
 ---
 
- * BeHe ExloreR version:
+ * Diar Explorer version:
  * Android version that you are using:
 
 ---
